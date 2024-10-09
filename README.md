@@ -1,6 +1,6 @@
 ## Hi there 👋
 
- 🌱 **I’m currently learning:**  <br>Full stack web development, exploring technologies like HTML, CSS, JavaScript, Node.js, React, and databases like MongoDB and MySQL. My repositories showcase projects and experiments as I enhance my skills in both frontend and backend development.
+ 🌱 **I’m currently learning :**  <br>Full stack web development, exploring technologies like HTML, CSS, JavaScript, Node.js, React, and databases like MongoDB and MySQL. My repositories showcase projects and experiments as I enhance my skills in both frontend and backend development.
 
 ## 🌐 Socials:
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://x.com/gxdhx_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gxdhx)
