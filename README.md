@@ -11,8 +11,11 @@
 ## 📊 GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gxdhx&show_icons=true&theme=bear" width="400">
-  <img src="https://streak-stats.demolab.com?user=gxdhx&theme=date-night&card_height=190" alt="GitHub Streak">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=gxdhx&theme=date-night&card_height=190" width="400" alt="GitHub Streak" />
+  </a>
 </p>
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=gxdhx&icon=0&color=0)](https://visitcount.itsvg.in)
