@@ -9,10 +9,17 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-%234B8BBE.svg?style=for-the-badge&logo=python&logoColor=white)
 
 ## 📊 GitHub Stats:
-<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-  <img src="https://github-readme-stats.vercel.app/api?username=gxdhx&show_icons=true&theme=bear" width="400" alt="GitHub Stats">
-  <img src="https://streak-stats.demolab.com?user=gxdhx&theme=date-night&card_height=190" width="400" alt="GitHub Streak">
-</div>
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=gxdhx&show_icons=true&theme=bear" width="400" alt="GitHub Stats">
+    </td>
+    <td>
+      <img src="https://streak-stats.demolab.com?user=gxdhx&theme=date-night&card_height=190" width="400" alt="GitHub Streak">
+    </td>
+  </tr>
+</table>
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=gxdhx&icon=0&color=0)](https://visitcount.itsvg.in)
