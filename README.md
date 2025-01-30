@@ -1,3 +1,12 @@
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gxdhx&show_icons=true&theme=bear" width="400">
+</p>
+
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=gxdhx&theme=date-night&card_height=190" alt="GitHub Streak" />
+  </a>
+</p>
 ## Hi there 👋
 
  🌱 **I’m currently learning :**  <br>Full stack web development, exploring technologies like HTML, CSS, JavaScript, Node.js, React, and databases like MongoDB and MySQL. My repositories showcase projects and experiments as I enhance my skills in both frontend and backend development.
@@ -10,10 +19,8 @@
 
 ## 📊 GitHub Stats:
 <p align="center">
-  <div style="display: flex; justify-content: center; gap: 10px;">
     <img src="https://github-readme-stats.vercel.app/api?username=gxdhx&show_icons=true&theme=bear" width="400">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=gxdhx&theme=date-night&card_height=190" alt="GitHub Streak" />
-  </div>
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=gxdhx&theme=date-night&card_height=190" alt="GitHub Streak">
 </p>
 
 ---
